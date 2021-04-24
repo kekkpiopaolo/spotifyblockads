@@ -1,6 +1,6 @@
-@echo off
+@echo on
 echo *****************
-echo Author: @rednek46
+echo Author: @anonimous
 echo *****************
 echo Removing Patch
 if exist "%APPDATA%\Spotify\chrome_elf.dll.bak" (
